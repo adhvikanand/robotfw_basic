@@ -17,6 +17,7 @@ MySecondTest
 MyThirdTest
     Log    I'm inside my third test    
     Set Tags    regression 
+    Remove Tags    regression
     
 FirstSeleniumTest
     Open Browser    https://google.com    chrome    executable_path=/usr/local/bin/chromedriver
